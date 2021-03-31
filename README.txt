@@ -15,12 +15,9 @@ No.2:
 	Project still can work without live data on Jupyter notebook by running cells those extracting data from stored CSV file in dataset folder instead of API call cells. The data store in csv files is upated until 21/09/2020.
 
 No.3:
-	a. Open project file with name googleColab_covid19_uk.ipynb in google colb
+	a. Open project file with name googleColab_covid19_uk.ipynb in google colab
 	b. place dataset folder into G drive.
 
-cope is available on github
-**************************************************
-https://github.com/MuhammadEsa/Computing-Project/blob/master/covid_19_uk.ipynb
-*****************************************************
+
 
 
