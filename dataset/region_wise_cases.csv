@@ -1,0 +1,11 @@
+date,areaName,areaCode,newCasesBySpecimenDate,cumCasesBySpecimenDate,newDeathsByDeathDate,cumDeathsByDeathDate,cumCasesBySpecimenDateRate
+2020-09-21,East Midlands,E12000004,8,30580,0,,632.4
+2020-09-21,East of England,E12000006,1,29422,0,,471.8
+2020-09-21,London,E12000007,1,45749,0,,510.5
+2020-09-21,North East,E12000001,5,21293,0,,797.5
+2020-09-21,North West,E12000002,18,70831,0,,964.8
+2020-09-21,South East,E12000008,3,41274,0,,449.6
+2020-09-21,South West,E12000009,3,16648,0,,296
+2020-09-21,West Midlands,E12000005,2,38077,0,,641.7
+2020-09-21,Yorkshire and The Humber,E12000003,18,44147,0,,802.2
+

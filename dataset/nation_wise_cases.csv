@@ -1,0 +1,6 @@
+date,areaName,areaCode,newCasesByPublishDate,cumCasesByPublishDate,newDeathsByDeathDate,cumDeathsByDeathDate
+2020-09-22,England,E92000001,4187,347842,36,37139
+2020-09-22,Northern Ireland,N92000002,75,9541,0,577
+2020-09-22,Scotland,S92000003,383,25009,1,2506
+2020-09-22,Wales,W92000004,281,21159,0,1603
+
